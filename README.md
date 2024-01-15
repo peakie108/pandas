@@ -2,7 +2,7 @@
 
 ![Pandas Logo](https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png)
 
-This repository is a collection of materials and code created by [@peakie108](link_to_profile) during the learning journey with Pandas.
+This repository is a collection of materials and code created by [@peakie108](https://github.com/peakie108/) during the learning journey with Pandas.
 
 ## Acknowledgments
 
